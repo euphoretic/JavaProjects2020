@@ -1,0 +1,35 @@
+array add:
+id: 0 Array time add:5700
+id: 1 Array time add:1700
+id: 2 Array time add:3100
+id: 3 Array time add:2600
+id: 4 Array time add:7700
+id: 5 Array time add:30400
+id: 6 Array time add:1400
+id: 7 Array time add:1600
+id: 8 Array time add:1300
+id: 9 Array time add:1500
+array remove:
+id: 8 Array time remove:29300
+linked add:
+id: 0 Linked time add:255600
+id: 1 Linked time add:7500
+id: 2 Linked time add:6800
+id: 3 Linked time add:6700
+id: 4 Linked time add:6900
+id: 5 Linked time add:3500
+id: 6 Linked time add:4400
+id: 7 Linked time add:8400
+id: 8 Linked time add:7500
+id: 9 Linked time add:6300
+linked remove:
+id: 1 Linked time remove:36300
+Для 10 элементов:
+total add в Array = 57000
+total add в Linked = 313600
+medial add в Array = 5700
+medial add в Linked = 31360
+total remove в Array = 29300
+total remove в Linked = 36300
+medial remove в Array = 29300
+medial remove в Linked = 36300
